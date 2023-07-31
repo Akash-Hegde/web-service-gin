@@ -1,0 +1,1 @@
+This is sample go REST application with gin
